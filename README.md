@@ -1,1 +1,2 @@
-# Make-My-Face
+# How-Do-I-Look
+A deep learning model trained to recognise emotions (sad, happy, depressed etc) using 30,000+ face screenshots as a dataset from Bollywood movies.
